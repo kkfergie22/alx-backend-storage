@@ -1,1 +1,1 @@
-0x02-redis_basic
+this project is for redis basic
